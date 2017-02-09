@@ -8,7 +8,7 @@ This is a tiny Chrome extension that reverts Chrome’s image viewer back to how
 
 ## Install
 
-Option 1: Just install from the [Google Web Store](https://chrome.google.com/webstore/detail/)! (Note: pending)
+Option 1: Just install from the [Google Web Store](https://chrome.google.com/webstore/detail/olobjnglnkpmiljkdlghinhnjcdoeicl/)!
 
 Option 2 (more advanced): You can also install the latest, unpacked version directly from this GitHub repo. Clone or download-and-unzip this repository, then click “load unpacked extension” in Google Chrome, and select the `chrome-image-uncenterer` directory you just downloaded. That’s it! See [https://developer.chrome.com/extensions/getstarted#unpacked](https://developer.chrome.com/extensions/getstarted#unpacked) for step-by-step instructions on installing an unpacked extension, if you need them.
 
