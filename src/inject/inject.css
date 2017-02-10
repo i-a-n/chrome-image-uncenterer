@@ -1,8 +1,10 @@
-body {
-	background: white !important;
-}
-body > img:only-child {
-	position: absolute !important;
-	top: 0 !important;
-	left: 0 !important;
+@media not print {
+	body[style="margin: 0px; background: rgb(14, 14, 14);"] {
+		background: white !important;
+	}
+	body[style="margin: 0px; background: rgb(14, 14, 14);"] > img:only-child {
+		position: absolute !important;
+		top: 0 !important;
+		left: 0 !important;
+	}
 }
