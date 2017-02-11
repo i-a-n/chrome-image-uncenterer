@@ -1,6 +1,6 @@
 {
 	"name": "Chrome Image Uncenterer",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"manifest_version": 2,
 	"description": "Un-centers the image viewer introduced in Chrome 56.0+",
 	"homepage_url": "http://github.com/i-a-n/chrome-image-uncenterer",
@@ -11,13 +11,7 @@
 	},
 	"content_scripts": [{
 		"matches": [
-			"*://*/*.jpg*",
-			"*://*/*.jpeg*",
-			"*://*/*.gif*",
-			"*://*/*.svg*",
-			"*://*/*.png*",
-			"*://*/*.tiff*",
-			"*://*/*.bmp*"
+			"<all_urls>"
 		],
 		"css": [
 			"src/inject/inject.css"
