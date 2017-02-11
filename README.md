@@ -14,6 +14,7 @@ Option 2 (more advanced): You can also install the latest, unpacked version dire
 
 ## Notes
 
-- This is meant for Chrome running on Mac. Windows might not work.
+- This was developed on Chrome for Mac OSX El Capitan, and tested briefly on Windows 8. Compatibility with other OSs is not strictly guaranteed.
 - I’ll keep this updated indefinitely. I use Chrome for my job and I can’t get used to the stupid centered-with-black-background image viewer.
-- Feel free to contribute. If you're the kind of person who reads this stuff, you’re probably the kind of person who will have good stuff to add.
+- Feel free to contribute. If you’re the kind of person who reads this stuff, you’re probably the kind of person who will have good stuff to add.
+- Special thanks to [@jacobbaratta](https://github.com/jacobbaratta) for contributing.
